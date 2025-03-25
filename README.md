@@ -1,3 +1,3 @@
 # bookbot
 
-A bot that take it for real about books
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
